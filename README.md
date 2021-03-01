@@ -44,7 +44,7 @@ function menu() {
 }
 ```
 
-#### display:none과 visibility:hidden 차이
+### display:none과 visibility:hidden 차이
 
 display:none은 해당 요소의 공간도 존재하지 않게되며 아예 삭제된 것처럼 보임.
 레이아웃에 영향 X
@@ -52,6 +52,7 @@ display:none은 해당 요소의 공간도 존재하지 않게되며 아예 삭�
 visibility:hidden은 해당 요소가 보이지 않을 뿐 요소가 차지하는 공간은 그대로 유지됨. 레이아웃에 영향 O
 
 <br />
+
 ### Grid
 
 #### grid-template-rows는 행(row)의 배치, grid-template-columns는 열(column)의 배치
