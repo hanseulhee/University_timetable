@@ -1,5 +1,5 @@
 .two1 {
-  background-color: #E7D9EA;
+  background-color: #e7d9ea;
   grid-row: 4/5;
   grid-column: 2/3;
   display: flex;
@@ -11,14 +11,13 @@
   background-color: #32b3eb;
   grid-row: 7/9;
   grid-column: 2/3;
-  /*padding-top: 50px;*/
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
 .two22 {
-background-color: #32b3eb;
+  background-color: #32b3eb;
   grid-row: 7/9;
   grid-column: 4/5;
   display: flex;
@@ -28,7 +27,7 @@ background-color: #32b3eb;
 }
 
 .two3 {
-  background-color: #E1BC91;
+  background-color: #e1bc91;
   grid-row: 3/5;
   grid-column: 3/4;
   display: flex;
@@ -37,7 +36,7 @@ background-color: #32b3eb;
   align-items: center;
 }
 .two4 {
-  background-color: #16C79A;
+  background-color: #16c79a;
   grid-row: 3/5;
   grid-column: 6/7;
   display: flex;
@@ -46,7 +45,7 @@ background-color: #32b3eb;
   align-items: center;
 }
 .two5 {
-  background-color: #EE9595;
+  background-color: #ee9595;
   grid-row: 7/9;
   grid-column: 3/4;
   display: flex;
@@ -56,7 +55,7 @@ background-color: #32b3eb;
 }
 
 .two55 {
-  background-color: #EE9595;
+  background-color: #ee9595;
   grid-row: 7/9;
   grid-column: 5/6;
   display: flex;
@@ -65,7 +64,7 @@ background-color: #32b3eb;
   align-items: center;
 }
 .two6 {
-  background-color: #F6D887;
+  background-color: #f6d887;
   grid-row: 6/9;
   grid-column: 6/7;
   display: flex;
@@ -74,7 +73,7 @@ background-color: #32b3eb;
   align-items: center;
 }
 .two7 {
-  background-color: #949CDF;
+  background-color: #949cdf;
   grid-row: 10/11;
   grid-column: 2/3;
   display: flex;
@@ -83,7 +82,7 @@ background-color: #32b3eb;
   align-items: center;
 }
 .two77 {
-  background-color: #949CDF;
+  background-color: #949cdf;
   grid-row: 10/11;
   grid-column: 4/5;
   display: flex;
@@ -102,7 +101,7 @@ background-color: #32b3eb;
   align-items: center;
 }
 .twolion {
-  background-color: #F79E1C;
+  background-color: #f79e1c;
   grid-row: 15/18;
   grid-column: 3/4;
   display: flex;
@@ -111,7 +110,7 @@ background-color: #32b3eb;
   align-items: center;
 }
 .twolion2 {
-  background-color: #F79E1C;
+  background-color: #f79e1c;
   grid-row: 14/18;
   grid-column: 6/7;
   display: flex;
