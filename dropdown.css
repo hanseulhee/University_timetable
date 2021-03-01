@@ -1,0 +1,32 @@
+.dropdown {
+  position: relative;
+  display: inline-block;
+  margin-left: 500px;
+  padding-top: 18px;
+}
+.button {
+  all: unset;
+  width: 150px;
+  height: 50px;
+  font-size: 20px;
+  background-color: #719fb0;
+  text-align: center;
+  color: #f5f4f4;
+}
+.drop-content {
+  position: absolute;
+  z-index: 1;
+}
+.drop-content a {
+  all: unset;
+  display: block;
+  width: 150px;
+  height: 35px;
+  text-align: center;
+  padding-top: 10px;
+  font-size: 16px;
+  background-color: #dfdfdf;
+  color: black;
+  text-decoration: none;
+  border-bottom: 1px solid #f5f4f4;
+}
