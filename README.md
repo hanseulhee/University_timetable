@@ -14,17 +14,13 @@ Timetable by semester of university
 <br />
 <br />
 
-![시간표2](https://user-images.githubusercontent.com/63100352/109503010-185c5f00-7add-11eb-85b8-808e343c3f8c.jpg)
-
+<img src="https://user-images.githubusercontent.com/63100352/109503010-185c5f00-7add-11eb-85b8-808e343c3f8c.jpg" height="600px" >
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/63100352/109503006-172b3200-7add-11eb-9567-569c34f52aa4.jpg" height="600px">
 <br />
 <br />
 
-![시간표1](https://user-images.githubusercontent.com/63100352/109503006-172b3200-7add-11eb-9567-569c34f52aa4.jpg)
-
-<br />
-<br />
-
-![시간표3](https://user-images.githubusercontent.com/63100352/109503018-1b574f80-7add-11eb-916c-a6cb598038f0.jpg)
+<img src="https://user-images.githubusercontent.com/63100352/109503018-1b574f80-7add-11eb-916c-a6cb598038f0.jpg" height="600px">
 
 ---
 
@@ -79,9 +75,7 @@ visibility:hidden은 해당 요소가 보이지 않을 뿐 요소가 차지하�
 
 ```css
 .grid-template-rows: 100px 100px 50px 50px …
-/* 30분 단위로 구성할 해당 시간을 100px에서 50px 50px로 쪼갬 */ 
-
-.pm7 {
+  /* 30분 단위로 구성할 해당 시간을 100px에서 50px 50px로 쪼갬 */ .pm7 {
   grid-row: 15/17; /* 반으로 쪼갠 시간은 행을 두개 차지*/
   grid-column: 1/2;
 }
@@ -91,8 +85,10 @@ visibility:hidden은 해당 요소가 보이지 않을 뿐 요소가 차지하�
   grid-column: 1/2;
 }
 ```
+
 ---
+
 ### Additional development items
 
-* react로 시간표 웹 만들어보기
-* 리팩토링
+- react로 시간표 웹 만들어보기
+- 리팩토링
