@@ -228,3 +228,15 @@ body {
   justify-content: center;
   align-items: center;
 }
+
+
+@media screen and (max-width: 1000px) {
+    .navbar {
+        margin-top: 100px;
+      }
+      .timetable {
+        top: 15%;
+      
+      }
+  }
+  
