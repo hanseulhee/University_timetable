@@ -14,16 +14,16 @@ Timetable by semester of university
 <br />
 <br />
 
-<img src="https://user-images.githubusercontent.com/63100352/109503010-185c5f00-7add-11eb-85b8-808e343c3f8c.jpg" width="310px" height="700px">
+<img src="https://user-images.githubusercontent.com/63100352/109503010-185c5f00-7add-11eb-85b8-808e343c3f8c.jpg" width="410px" height="700px">
 
 <br />
 <br />
 
-![시간표1](https://user-images.githubusercontent.com/63100352/109503006-172b3200-7add-11eb-9567-569c34f52aa4.jpg)
+<img src="https://user-images.githubusercontent.com/63100352/109503006-172b3200-7add-11eb-9567-569c34f52aa4.jpg" width="410px" height="700px">
 <br />
 <br />
 
-![시간표3](https://user-images.githubusercontent.com/63100352/109503018-1b574f80-7add-11eb-916c-a6cb598038f0.jpg)
+<img src="https://user-images.githubusercontent.com/63100352/109503018-1b574f80-7add-11eb-916c-a6cb598038f0.jpg" width="410px" height="700px">
 
 ---
 
