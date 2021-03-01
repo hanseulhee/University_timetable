@@ -1,0 +1,121 @@
+.two1 {
+  background-color: #E7D9EA;
+  grid-row: 4/5;
+  grid-column: 2/3;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.two2 {
+  background-color: #32b3eb;
+  grid-row: 7/9;
+  grid-column: 2/3;
+  /*padding-top: 50px;*/
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.two22 {
+background-color: #32b3eb;
+  grid-row: 7/9;
+  grid-column: 4/5;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.two3 {
+  background-color: #E1BC91;
+  grid-row: 3/5;
+  grid-column: 3/4;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.two4 {
+  background-color: #16C79A;
+  grid-row: 3/5;
+  grid-column: 6/7;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.two5 {
+  background-color: #EE9595;
+  grid-row: 7/9;
+  grid-column: 3/4;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.two55 {
+  background-color: #EE9595;
+  grid-row: 7/9;
+  grid-column: 5/6;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.two6 {
+  background-color: #F6D887;
+  grid-row: 6/9;
+  grid-column: 6/7;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.two7 {
+  background-color: #949CDF;
+  grid-row: 10/11;
+  grid-column: 2/3;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.two77 {
+  background-color: #949CDF;
+  grid-row: 10/11;
+  grid-column: 4/5;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.two8 {
+  background-color: skyblue;
+  grid-row: 10/13;
+  grid-column: 6/7;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.twolion {
+  background-color: #F79E1C;
+  grid-row: 15/18;
+  grid-column: 3/4;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.twolion2 {
+  background-color: #F79E1C;
+  grid-row: 14/18;
+  grid-column: 6/7;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
