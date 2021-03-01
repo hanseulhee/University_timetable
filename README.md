@@ -14,7 +14,8 @@ Timetable by semester of university
 <br />
 <br />
 
-![시간표2](https://user-images.githubusercontent.com/63100352/109503010-185c5f00-7add-11eb-85b8-808e343c3f8c.jpg)
+<img src="https://user-images.githubusercontent.com/63100352/109503010-185c5f00-7add-11eb-85b8-808e343c3f8c.jpg" width="310px" height="700px">
+
 <br />
 <br />
 
