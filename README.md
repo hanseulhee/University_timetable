@@ -15,7 +15,7 @@ Timetable by semester of university
 <br />
 
 <img src="https://user-images.githubusercontent.com/63100352/109503010-185c5f00-7add-11eb-85b8-808e343c3f8c.jpg" height="600px" >
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/63100352/109503006-172b3200-7add-11eb-9567-569c34f52aa4.jpg" height="600px">
 <br />
 <br />
