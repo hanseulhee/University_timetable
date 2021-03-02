@@ -75,7 +75,8 @@ visibility:hidden은 해당 요소가 보이지 않을 뿐 요소가 차지하�
 
 ```css
 .grid-template-rows: 100px 100px 50px 50px …
-  /* 30분 단위로 구성할 해당 시간을 100px에서 50px 50px로 쪼갬 */ .pm7 {
+  /* 30분 단위로 구성할 해당 시간을 100px에서 50px 50px로 쪼갬 */ 
+.pm7 {
   grid-row: 15/17; /* 반으로 쪼갠 시간은 행을 두개 차지*/
   grid-column: 1/2;
 }
